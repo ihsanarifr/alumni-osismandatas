@@ -1,1 +1,1 @@
-# alumni.osismandatas.org
+# alumni-osismandatas
